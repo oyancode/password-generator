@@ -5,7 +5,7 @@ did you find password generator programs generate random passwords that are hard
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/oyancode/password-generator/main/screenshot/preview.png)
 
 
 ## Installation
